@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-18-011-algebra-i-student-notes-fall-2021/mit18_701f21_full_lec_new.pdf
+file: /ol-ocw-studio-app/courses/res-18-011-algebra-i-student-notes-fall-2021/mit18_701f21_full_lec_new.pdf
 file_size: 2938744
 file_type: application/pdf
 image_metadata:
